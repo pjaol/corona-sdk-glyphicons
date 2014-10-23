@@ -15,4 +15,4 @@ local icon = display.newImage(glyphicons_sprite, glyphicons:getFrameIndex("circl
 ```
 Table of icons
 
-![alt text](https://github.com/pjaol/corona-sdk-glyphicons/raw/master/glyphicons/glyphicons_sprites.png "Glyphicons Table")
+![alt text](https://github.com/pjaol/corona-sdk-glyphicons/raw/master/glyphicons/all_icons.png "Glyphicons Table")
