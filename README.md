@@ -13,4 +13,6 @@ local glyphicons_sprite = graphics.newImageSheet("glyphicons/glyphicons_sprites.
 -- display an info icon
 local icon = display.newImage(glyphicons_sprite, glyphicons:getFrameIndex("circle_info")
 ```
+Table of icons
 
+![alt text](https://github.com/pjaol/corona-sdk-glyphicons/raw/master/glyphicons/glyphicons_sprites.png "Glyphicons Table")
