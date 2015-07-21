@@ -5,6 +5,7 @@ A glyph icons module for corona sdk
 Original icons from http://glyphicons.com/ by Jan Kovařík
 Licensed under Creative Commons license
 
+Test 2
 
 usage:
 ```lua
